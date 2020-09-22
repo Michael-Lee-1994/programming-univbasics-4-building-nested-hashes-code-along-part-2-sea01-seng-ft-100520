@@ -62,9 +62,10 @@ def add_characters
    # Code your solution here:
 
   epic_tragedy[:additional_characters] = []
-  price = {name: "Price Escalus"}
+  prince = {name: "Price Escalus"}
   apothecary = {name: "Apothecary"}
- 
+  epic_tragedy[:additional_characters] << prince
+ epic_tragedy[:additional_characters] << prince
 
 
 
